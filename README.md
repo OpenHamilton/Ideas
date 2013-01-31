@@ -30,6 +30,6 @@ This project is lead and developed by [Open Hamilton](http://openhamilton.ca/), 
 
 This projects builds upon [ChangeByUs](http://changeby.us/):
 
+
 * [Local Projects](http://localprojects.net) envisioned and designed Change By Us for the city of New York. 
 * [Code for America](http://codeforamerica.org) contributed a number of features and brought the project to 2.0 
-
